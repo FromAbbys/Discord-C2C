@@ -51,3 +51,6 @@ Webcam
 
 A webcam é ligada, tira uma foto, e a envia para o discord, logo apos a webcam é desligada e o arquivo apagado do buffer. O uso: !webcam, no caso de não existencia de webcam ou erro ao iniciar a mesma, uma mensagem de erro sera enviada.
 
+Limpar
+
+Comando para apagar as mensagem do chat do discord, uso: !limpar
