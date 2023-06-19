@@ -13,3 +13,41 @@ Exemplo:
 
 Suas funções e forma de uso sera explica de forma melhor abaixo. 
 
+
+Donwload
+
+É possivel baixar arquivos do host que o bot esta rodando, basta voce executar o comando no discord: !donwload <path do arquivo>
+
+Demonstração abaixo:
+
+![image](https://github.com/FromAbbys/Discord-C2C/assets/99764742/d12d517b-9caa-44f9-b939-0d39bae16dce)
+
+O arquivo sera enviado em outro canal:
+
+![image](https://github.com/FromAbbys/Discord-C2C/assets/99764742/3aac2bfe-98cf-4586-8616-fd9f23a5eded)
+
+
+Upload
+
+É possivel enviar arquivos para o computador alvo, no momento, o arquivo sera enviado diretamente para o local onde o codigo em execucao esta armazenado, exemplo, se o arquivo do executavel ou do python estiver no diretorio home, o upload sera feito para la.
+Um pouco diferente no uso basta executar o comando da seguinte forma, escolher um arquivo para ser usado de upload, e digitar o comando !upload e enviar junto do anexo, que o mesmo sera salvo:
+
+![image](https://github.com/FromAbbys/Discord-C2C/assets/99764742/69af50b3-bab9-4e38-a3e7-77e361a5d6f7)
+
+![image](https://github.com/FromAbbys/Discord-C2C/assets/99764742/adc21685-b5ca-4ee6-9610-eda313259b7d)
+
+E agora, no diretorio onde o codigo esta salvo:
+
+![image](https://github.com/FromAbbys/Discord-C2C/assets/99764742/a7a1016b-d90a-4a50-a6b1-ebdc3e55dab0)
+
+
+
+Shot
+
+Tira um print da tela principal do alvo, para usar basta !shot 
+
+
+Webcam
+
+A webcam é ligada, tira uma foto, e a envia para o discord, logo apos a webcam é desligada e o arquivo apagado do buffer. O uso: !webcam, no caso de não existencia de webcam ou erro ao iniciar a mesma, uma mensagem de erro sera enviada.
+
