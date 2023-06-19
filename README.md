@@ -14,6 +14,12 @@ Exemplo:
 Suas funções e forma de uso sera explica de forma melhor abaixo. 
 
 
+Command
+
+Executa comandos na maquina alvo e tem um retorno da saida do mesmo. Ex: !command "ls -la"
+
+A foto acima ilustra o resultado do comando.
+
 Donwload
 
 É possivel baixar arquivos do host que o bot esta rodando, basta voce executar o comando no discord: !donwload <path do arquivo>
