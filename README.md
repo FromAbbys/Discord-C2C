@@ -9,7 +9,8 @@ O command controll funciona de forma simples, ao criar um server no discord e ad
 
 Exemplo:
 
-![image](https://github.com/FromAbbys/Discord-C2C/assets/99764742/b8b5ee00-f23e-42a9-a43f-8fe5e570981d)
+![image](https://github.com/FromAbbys/Discord-C2C/assets/99764742/b81c12ae-3653-433f-808c-ef88da89ff73)
+
 
 Suas funções e forma de uso sera explica de forma melhor abaixo. 
 
