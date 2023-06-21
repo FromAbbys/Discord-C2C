@@ -66,6 +66,10 @@ Shot
 
 Tira um print da tela principal do alvo, para usar basta !shot 
 
+Ex: 
+
+![image](https://github.com/FromAbbys/Discord-C2C/assets/99764742/6988ff48-69b8-484e-ae00-487c206601f7)
+
 
 Webcam
 
