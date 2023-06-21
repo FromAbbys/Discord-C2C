@@ -27,11 +27,16 @@ Donwload
 
 Demonstração abaixo:
 
-![image](https://github.com/FromAbbys/Discord-C2C/assets/99764742/d12d517b-9caa-44f9-b939-0d39bae16dce)
+Arquivo na maquina alvo:
+![image](https://github.com/FromAbbys/Discord-C2C/assets/99764742/b2d86411-56ab-479f-9732-272d2c71d2a1)
+
+Executando o download:
+![image](https://github.com/FromAbbys/Discord-C2C/assets/99764742/21d6bc80-ce2c-4fbb-8789-c7a934c9e233)
+
 
 O arquivo sera enviado em outro canal:
 
-![image](https://github.com/FromAbbys/Discord-C2C/assets/99764742/3aac2bfe-98cf-4586-8616-fd9f23a5eded)
+![image](https://github.com/FromAbbys/Discord-C2C/assets/99764742/09307d34-a697-4687-bf71-db6c3a85eba1)
 
 
 Upload
@@ -39,13 +44,21 @@ Upload
 É possivel enviar arquivos para o computador alvo, no momento, o arquivo sera enviado diretamente para o local onde o codigo em execucao esta armazenado, exemplo, se o arquivo do executavel ou do python estiver no diretorio home, o upload sera feito para la.
 Um pouco diferente no uso basta executar o comando da seguinte forma, escolher um arquivo para ser usado de upload, e digitar o comando !upload e enviar junto do anexo, que o mesmo sera salvo:
 
-![image](https://github.com/FromAbbys/Discord-C2C/assets/99764742/69af50b3-bab9-4e38-a3e7-77e361a5d6f7)
 
-![image](https://github.com/FromAbbys/Discord-C2C/assets/99764742/adc21685-b5ca-4ee6-9610-eda313259b7d)
+Arquivo que sera upado:
+![image](https://github.com/FromAbbys/Discord-C2C/assets/99764742/b7a46284-f070-4cbd-8dea-14b72842be02)
+
+Comando sendo executado:
+
+![image](https://github.com/FromAbbys/Discord-C2C/assets/99764742/6b8f23db-18f4-4857-814f-a0f9164a7e2c)
+
 
 E agora, no diretorio onde o codigo esta salvo:
 
-![image](https://github.com/FromAbbys/Discord-C2C/assets/99764742/a7a1016b-d90a-4a50-a6b1-ebdc3e55dab0)
+![image](https://github.com/FromAbbys/Discord-C2C/assets/99764742/efde6bbe-491e-40dc-9ac3-daca91d0f90d)
+
+
+![image](https://github.com/FromAbbys/Discord-C2C/assets/99764742/f44fb436-f5bd-4ff8-8e05-7d47aa161494)
 
 
 
