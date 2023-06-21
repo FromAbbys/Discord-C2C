@@ -28,9 +28,11 @@ Donwload
 Demonstração abaixo:
 
 Arquivo na maquina alvo:
+
 ![image](https://github.com/FromAbbys/Discord-C2C/assets/99764742/b2d86411-56ab-479f-9732-272d2c71d2a1)
 
 Executando o download:
+
 ![image](https://github.com/FromAbbys/Discord-C2C/assets/99764742/21d6bc80-ce2c-4fbb-8789-c7a934c9e233)
 
 
