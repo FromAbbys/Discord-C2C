@@ -49,6 +49,7 @@ Um pouco diferente no uso basta executar o comando da seguinte forma, escolher u
 
 
 Arquivo que sera upado:
+
 ![image](https://github.com/FromAbbys/Discord-C2C/assets/99764742/b7a46284-f070-4cbd-8dea-14b72842be02)
 
 Comando sendo executado:
