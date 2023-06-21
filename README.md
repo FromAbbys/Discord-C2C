@@ -36,7 +36,8 @@ Executando o download:
 
 O arquivo sera enviado em outro canal:
 
-![image](https://github.com/FromAbbys/Discord-C2C/assets/99764742/09307d34-a697-4687-bf71-db6c3a85eba1)
+![image](https://github.com/FromAbbys/Discord-C2C/assets/99764742/0c4441a3-37d1-4a3d-b984-cdf76f92adb8)
+
 
 
 Upload
